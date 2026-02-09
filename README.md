@@ -41,21 +41,21 @@ O sistema permite o cadastro e controle de veículos e vagas, registro de entrad
 ---
 
 ## 📂 Estrutura do Projeto
-
-src/
-└─ estacionamento
-├─ entidades
-│ ├─ Veiculo.java
-│ ├─ Carro.java
-│ ├─ Moto.java
-│ ├─ Cliente.java
-│ ├─ Vaga.java
-│ ├─ Estadia.java
-│ └─ Recibo.java
-├─ enums
-│ ├─ TipoVeiculo.java
-│ └─ StatusVaga.java
-├─ interfaces
-│ └─ Tarifavel.java
-└─ Main.java
+  
+  src/
+  └─ estacionamento
+  ├─ entidades
+  │ ├─ Veiculo.java
+  │ ├─ Carro.java
+  │ ├─ Moto.java
+  │ ├─ Cliente.java
+  │ ├─ Vaga.java
+  │ ├─ Estadia.java
+  │ └─ Recibo.java
+  ├─ enums
+  │ ├─ TipoVeiculo.java
+  │ └─ StatusVaga.java
+  ├─ interfaces
+  │ └─ Tarifavel.java
+  └─ Main.java
 

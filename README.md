@@ -41,6 +41,9 @@ O sistema permite o cadastro e controle de veículos e vagas, registro de entrad
 ---
 
 ## 📂 Estrutura do Projeto
+
+  src/
+  └─ estacionamento
   
   src/
   └─ estacionamento

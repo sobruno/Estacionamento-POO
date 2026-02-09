@@ -38,7 +38,3 @@ O sistema permite o cadastro e controle de veículos e vagas, registro de entrad
 - **Coleções**
   - `ArrayList`
 
----
-
-## 📂 Estrutura do Projeto
-
